@@ -46,7 +46,9 @@
 
 ### 🔗 Terminal Access
 <p align="center">
-<a href="https://leonciovan.github.io/" target="_blank"><img src="https://img.shields.io/badge/LIVE_PORTFOLIO-FFFFFF?style=for-the-badge&logo=googlechrome&logoColor=black" /></a>
+<a href="https://leonciovan.github.io/my-website/" target="_blank">
+<img src="https://img.shields.io/badge/VIEW%20PORTFOLIO-000000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
