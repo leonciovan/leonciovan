@@ -57,24 +57,6 @@
 
 ---
 
-### 📊 System Analytics
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=leonciovan&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff" height="150" alt="stats card" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonciovan&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff" height="150" alt="languages card" />
-</p>
-
----
-
-### 🐍 Contribution Activity
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/leonciovan/leonciovan/output/github-contribution-grid-snake-dark.svg">
-    <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/leonciovan/leonciovan/output/github-contribution-grid-snake.svg">
-  </picture>
-</p>
-
----
-
 ### 🔗 Terminal Access
 <p align="center">
 <a href="https://leonciovan.github.io/my-website/" target="_blank">
