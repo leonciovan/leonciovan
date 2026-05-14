@@ -55,3 +55,38 @@
   </tr>
   <tr>
     <td align="center" width="50%">
+      <h3>💈 Barbershop Online Booking</h3>
+      <p>A comprehensive barbershop booking platform with real-time appointment scheduling, service selection, barber profiles, and customer management dashboard.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Tool-Figma-000000?style=for-the-badge&logo=figma&logoColor=white" />
+        <img src="https://img.shields.io/badge/Type-Booking%20System-000000?style=for-the-badge" />
+      </p>
+      <a href="https://www.figma.com/design/j6PsWADHUcnCkIy5iCZBpc/Untitled?node-id=0-1&t=b0RZBt5imriCr9wV-1" target="_blank">
+        <img src="https://img.shields.io/badge/🔗%20VIEW%20FIGMA%20DESIGN-000000?style=for-the-badge&logo=figma&logoColor=white" />
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <h3>🚀 More Projects Coming Soon</h3>
+      <p>Stay tuned for more UI/UX and web development projects as I continue my journey towards my 2027 internship.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Status-In%20Progress-000000?style=for-the-badge" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🔗 Terminal Access
+<p align="center">
+<a href="https://leonciovan.github.io/my-website/" target="_blank">
+<img src="https://img.shields.io/badge/VIEW%20PORTFOLIO-000000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+<img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+</p>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=100&section=footer" width="100%"/>
+</p>
