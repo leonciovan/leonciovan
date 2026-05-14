@@ -1,4 +1,6 @@
-# <p align="center">⚡ VAN ALDOUS LEONCIO ⚡</p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=200&section=header&text=VAN%20ALDOUS%20LEONCIO&fontSize=50&fontColor=FFFFFF&animation=fadeIn" width="100%"/>
+</p>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=3rd+Year+IT+Student;Future+Web+Developer;Building+Digital+Experiences;Internship+Target%3A+2026" alt="Typing SVG" />
 </p>
@@ -77,12 +79,25 @@
 
 ---
 
+### 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=leonciovan&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=leonciovan&theme=dark&hide_border=true&background=000000&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonciovan&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF" width="50%" />
+</p>
+
+---
+
 ### 🔗 Terminal Access
 <p align="center">
 <a href="https://leonciovan.github.io/my-website/" target="_blank">
 <img src="https://img.shields.io/badge/VIEW%20PORTFOLIO-000000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+<a href="https://linkedin.com/in/van-aldous-leoncio" target="_blank">
 <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 </p>
